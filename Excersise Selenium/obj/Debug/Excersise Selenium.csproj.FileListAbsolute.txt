@@ -1,0 +1,17 @@
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\Excersise Selenium.dll
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\Excersise Selenium.pdb
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\WebDriver.dll
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\WebDriver.xml
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\obj\Debug\Excersise Selenium.csprojResolveAssemblyReference.cache
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\obj\Debug\Excersise Selenium.dll
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\obj\Debug\Excersise Selenium.pdb
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\Excersise Selenium.dll.config
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\EntityFramework.dll
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\EntityFramework.xml
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\TestDatabase.dll
+C:\Users\jeandrade\Documents\Visual Studio 2015\Projects\Jonathan\Jonathan\Excersise Selenium\Excersise Selenium\bin\Debug\TestDatabase.pdb
